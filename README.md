@@ -1,12 +1,15 @@
 # ☕ Leaf & Grain — Specialty Coffee & Cafe
 
+<h2 align="center">☕ Leaf & Grain</h2>
+
 <p align="center">
-  **A modern cafe experience, crafted for coffee lovers.**
-  
-  A full-stack cafe and restaurant website featuring a beautifully designed interface, interactive menu, shopping cart, user authentication, and table reservation experience.
-  
-  <br/>
-  **[🌐 Visit Live Website](https://leaf-and-grain-n6k8.onrender.com)**
+  A modern specialty coffee and cafe experience.
+</p>
+
+<p align="center">
+  <a href="https://leaf-and-grain-n6k8.onrender.com">
+    🌐 Visit Live Website
+  </a>
 </p>
 
 ---
