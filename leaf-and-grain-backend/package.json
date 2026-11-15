@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "ts-node --transpileOnly src/index.ts",
+    "start": "node server.js",
+    "dev": "node server.js",
     "db:push": "npx -y prisma@5 db push && npx -y prisma@5 generate",
     "db:seed": "ts-node --transpileOnly prisma/seed.ts"
   },

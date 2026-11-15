@@ -1,5 +1,6 @@
 node_modules/
 .next/
-.env
+.env*.local
 dist/
 dev.db
+.git_leaf_and_grain_backup/
