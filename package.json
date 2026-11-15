@@ -1,0 +1,10 @@
+{
+  "name": "leaf-and-grain-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm --prefix leaf-and-grain install && npm --prefix leaf-and-grain-backend install",
+    "build": "npm --prefix leaf-and-grain run build",
+    "start": "npm --prefix leaf-and-grain start"
+  }
+}
